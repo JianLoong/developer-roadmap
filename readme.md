@@ -13,6 +13,14 @@ Below you find a set of charts demonstrating the paths that you can take and the
 
 ![](https://i.imgur.com/OZUOUtI.png)
 
+## Monash MIT Units in relation to the Roadmap
+
+| Skill         | Unit          |  Unit Name |
+| ------------- |:-------------:| :---------:|
+| Basic Terminal Usage      | FIT9134 | Computer Architecture and OS|
+| SSH      | FIT9135      | Data Communications
+| Basic HTML & CSS | FIT5032 | Internet Applications Development | 
+
 ## 🎨 Frontend Roadmap
 
 ![](./images/frontend-v2.png)
